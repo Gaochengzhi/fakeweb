@@ -1,0 +1,19 @@
+nav {
+    background-color:rgb(46, 58,64);
+    font-weight: 400;
+    font-size: 1.3em;
+}
+.navtext{
+    color: white;
+
+}
+.mybox{
+    background-color: rgb(245,245,245);
+}
+.maintext{
+    color: rgb(127, 140, 135);
+    font-size:0.9em;
+}
+.txtb{
+    font-size:0.9em;
+}
